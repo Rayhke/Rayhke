@@ -12,4 +12,5 @@
 ![visualstudio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![spyderide](https://img.shields.io/badge/spyderide-FF0000.svg?&style=for-the-badge&logo=spyderide&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
