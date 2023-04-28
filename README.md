@@ -13,4 +13,3 @@
 
 ![anaconda](https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![spyderide](https://img.shields.io/badge/spyder%20ide-FF0000.svg?&style=for-the-badge&logo=spyderide&logoColor=white)
-![eclipseide](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
