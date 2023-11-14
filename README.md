@@ -5,6 +5,7 @@
 ### Platforms & Languages
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
 ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![java](https://img.shields.io/badge/java-6DB33F.svg?&style=for-the-badge&logo=java&logoColor=black)
 
 ### FrameWork
 
