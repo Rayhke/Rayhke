@@ -6,6 +6,7 @@
 
 ### Back End
 ![java](https://img.shields.io/badge/java-437291.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![junit5](https://img.shields.io/badge/junit5-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 
 ### DataBase
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
