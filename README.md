@@ -3,3 +3,9 @@
 ### ~
 
 - NHN Academy IoT/AI 기반 Java Backend 2기생
+
+### Project
+
+|[AIoT 데이터 센터 관리 시스템](https://github.com/nhnacademy-aiot2-lucky7)|
+|---|
+||
