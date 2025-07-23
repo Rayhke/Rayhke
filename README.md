@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=273755&text=Hi%20there!%20👋&fontColor=6495ED&fontSize=30&fontAlign=13&desc=Let%20me%20briefly%20introduce%20myself.&descAlign=16.35&descAlignY=75&descSize=16&section=header" alt="Welcome"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=273755&text=Hi%20there!%20👋&fontColor=6495ED&fontSize=30&fontAlign=13&desc=Let%20me%20briefly%20introduce%20myself.&descAlign=16.38&descAlignY=75&descSize=16&section=header" alt="Welcome"/>
 
 
 ### ~
