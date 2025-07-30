@@ -4,15 +4,74 @@
 
 ## :hammer_and_wrench: 활용 기술
 
-| 구분             | 기술                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" style="height:28px"/> <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" style="height:28px"/> <img src="https://img.shields.io/badge/JavaScript-e0e0e0?logo=javascript&logoColor=black" alt="JavaScript" style="height:28px"/> <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" style="height:28px"/> <img src="https://img.shields.io/badge/C%23-e0e0e0?logo=dotnet&logoColor=black" alt="C#" style="height:28px"/> |
-| **Frameworks** | <img src="https://img.shields.io/badge/Spring-e0e0e0?logo=spring&logoColor=black" alt="Spring" style="height:28px"/> <img src="https://img.shields.io/badge/Spring_MVC-e0e0e0?logo=spring&logoColor=black" alt="Spring MVC" style="height:28px"/> <img src="https://img.shields.io/badge/Spring_Boot-e0e0e0?logo=springboot&logoColor=black" alt="Spring Boot" style="height:28px"/> <img src="https://img.shields.io/badge/JPA-e0e0e0?logo=hibernate&logoColor=black" alt="JPA" style="height:28px"/>                                                                                                   |
-| **Web**        | <img src="https://img.shields.io/badge/Servlet-d3d3d3?logo=apachetomcat&logoColor=black" alt="Servlet" style="height:28px"/> <img src="https://img.shields.io/badge/JSP-e0e0e0?logo=java&logoColor=black" alt="JSP" style="height:28px"/> <img src="https://img.shields.io/badge/Thymeleaf-e0e0e0?logo=thymeleaf&logoColor=black" alt="Thymeleaf" style="height:28px"/>                                                                                                                                                                                                                                  |
-| **Database**   | <img src="https://img.shields.io/badge/MySQL-e0e0e0?logo=mysql&logoColor=black" alt="MySQL" style="height:28px"/> <img src="https://img.shields.io/badge/MSSQL-e0e0e0?logo=microsoftsqlserver&logoColor=black" alt="MSSQL" style="height:28px"/> <img src="https://img.shields.io/badge/InfluxDB-e0e0e0?logo=influxdb&logoColor=black" alt="InfluxDB" style="height:28px"/>                                                                                                                                                                                                                              |
-| **DevOps**     | <img src="https://img.shields.io/badge/Git-e0e0e0?logo=git&logoColor=black" alt="Git" style="height:28px"/> <img src="https://img.shields.io/badge/GitHub_Actions-e0e0e0?logo=githubactions&logoColor=black" alt="GitHub Actions" style="height:28px"/> <img src="https://img.shields.io/badge/Maven-e0e0e0?logo=apachemaven&logoColor=black" alt="Maven" style="height:28px"/> <img src="https://img.shields.io/badge/Docker-e0e0e0?logo=docker&logoColor=black" alt="Docker" style="height:28px"/>                                                                                                     |
-| **IDE**        | <img src="https://img.shields.io/badge/IntelliJ_IDEA-e0e0e0?logo=intellijidea&logoColor=black" alt="IntelliJ" style="height:28px"/> <img src="https://img.shields.io/badge/VS_Code-e0e0e0?logo=visualstudiocode&logoColor=black" alt="VS Code" style="height:28px"/>                                                                                                                                                                                                                                                                                                                                     |
-| **Testing**    | <img src="https://img.shields.io/badge/JUnit-e0e0e0?logo=junit5&logoColor=black" alt="JUnit" style="height:28px"/> <img src="https://img.shields.io/badge/SonarQube-e0e0e0?logo=sonarqubeserver&logoColor=black" alt="SonarQube" style="height:28px"/>                                                                                                                                                                                                                                                                                                                                                   |
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>기술</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" style="height:28px"/>
+        <img src="https://img.shields.io/badge/JavaScript-e0e0e0?logo=javascript&logoColor=black" alt="JavaScript" style="height:28px"/>
+        <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" style="height:28px"/>
+        <img src="https://img.shields.io/badge/C%23-e0e0e0?logo=dotnet&logoColor=black" alt="C#" style="height:28px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frameworks</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring-e0e0e0?logo=spring&logoColor=black" alt="Spring" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Spring_MVC-e0e0e0?logo=spring&logoColor=black" alt="Spring MVC" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-e0e0e0?logo=springboot&logoColor=black" alt="Spring Boot" style="height:28px"/>
+        <img src="https://img.shields.io/badge/JPA-e0e0e0?logo=hibernate&logoColor=black" alt="JPA" style="height:28px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Web</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Servlet-d3d3d3?logo=apachetomcat&logoColor=black" alt="Servlet" style="height:28px"/>
+        <img src="https://img.shields.io/badge/JSP-e0e0e0?logo=java&logoColor=black" alt="JSP" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-e0e0e0?logo=thymeleaf&logoColor=black" alt="Thymeleaf" style="height:28px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/MySQL-e0e0e0?logo=mysql&logoColor=black" alt="MySQL" style="height:28px"/>
+        <img src="https://img.shields.io/badge/MSSQL-e0e0e0?logo=microsoftsqlserver&logoColor=black" alt="MSSQL" style="height:28px"/>
+        <img src="https://img.shields.io/badge/InfluxDB-e0e0e0?logo=influxdb&logoColor=black" alt="InfluxDB" style="height:28px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>DevOps</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-e0e0e0?logo=git&logoColor=black" alt="Git" style="height:28px"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-e0e0e0?logo=githubactions&logoColor=black" alt="GitHub Actions" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Maven-e0e0e0?logo=apachemaven&logoColor=black" alt="Maven" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Docker-e0e0e0?logo=docker&logoColor=black" alt="Docker" style="height:28px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>IDE</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-e0e0e0?logo=intellijidea&logoColor=black" alt="IntelliJ" style="height:28px"/>
+        <img src="https://img.shields.io/badge/VS_Code-e0e0e0?logo=visualstudiocode&logoColor=black" alt="VS Code" style="height:28px"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Testing</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/JUnit-e0e0e0?logo=junit5&logoColor=black" alt="JUnit" style="height:28px"/>
+        <img src="https://img.shields.io/badge/SonarQube-e0e0e0?logo=sonarqubeserver&logoColor=black" alt="SonarQube" style="height:28px"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
