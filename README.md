@@ -78,9 +78,11 @@
 
 ## :open_book: 현재 학습 중
 
-<img src="https://img.shields.io/badge/Spring-e0e0e0?logo=spring&logoColor=black" alt="Spring" style="height:28px"/>
-<img src="https://img.shields.io/badge/Spring_Boot-e0e0e0?logo=springboot&logoColor=black" alt="Spring Boot" style="height:28px"/>
-<img src="https://img.shields.io/badge/JPA-e0e0e0?logo=hibernate&logoColor=black" alt="JPA" style="height:28px"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-e0e0e0?logo=spring&logoColor=black" alt="Spring" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-e0e0e0?logo=springboot&logoColor=black" alt="Spring Boot" style="height:28px"/>
+  <img src="https://img.shields.io/badge/JPA-e0e0e0?logo=hibernate&logoColor=black" alt="JPA" style="height:28px"/>
+</p>
 
 ---
 
