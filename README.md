@@ -74,9 +74,7 @@
   </tbody>
 </table>
 
----
-
-## :open_book: 현재 학습 중
+### :open_book: 현재 학습 중
 
 <p align="left">
   <img src="https://img.shields.io/badge/Spring-e0e0e0?logo=spring&logoColor=black" alt="Spring" style="height:28px"/>
