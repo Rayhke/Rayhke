@@ -71,6 +71,13 @@
         <img src="https://img.shields.io/badge/SonarQube-e0e0e0?logo=sonarqubeserver&logoColor=black" alt="SonarQube" style="height:28px"/>
       </td>
     </tr>
+    <tr>
+      <td><b>Docs</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Obsidian-e0e0e0?logo=obsidian&logoColor=black" alt="Obsidian" style="height:28px"/>
+        <img src="https://img.shields.io/badge/Notion-e0e0e0?logo=notion&logoColor=black" alt="Notion" style="height:28px"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
