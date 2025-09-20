@@ -20,8 +20,8 @@
         <img src="https://img.shields.io/badge/Java-e0e0e0?logo=openjdk&logoColor=black" alt="Java" style="height:28px"/>
         <img src="https://img.shields.io/badge/Python-e0e0e0?logo=python&logoColor=black" alt="Python" style="height:28px"/>
         <img src="https://img.shields.io/badge/JavaScript-e0e0e0?logo=javascript&logoColor=black" alt="JavaScript" style="height:28px"/>
-        <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" style="height:28px"/>
-        <img src="https://img.shields.io/badge/C%23-e0e0e0?logo=dotnet&logoColor=black" alt="C#" style="height:28px"/>
+        <!-- <img src="https://img.shields.io/badge/C++-e0e0e0?logo=cplusplus&logoColor=black" alt="C++" style="height:28px"/> -->
+        <!-- <img src="https://img.shields.io/badge/C%23-e0e0e0?logo=dotnet&logoColor=black" alt="C#" style="height:28px"/> -->
       </td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@
 ## :mortar_board: 학력
 
 - **경남대학교 (2023.03 ~ 2025.08)**  
-  컴퓨터공학부 · 컴퓨터공학전공: 졸업 예정...
+  컴퓨터공학부 · 컴퓨터공학전공: 졸업
 
 ---
 
